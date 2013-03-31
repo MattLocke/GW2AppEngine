@@ -1,0 +1,20 @@
+#appname:GW2AppEngine
+#appid:com.souldrink.gw2appengine
+#publisher:SouldrinK
+#image:icon.png
+#url:www.gw2chat.com
+#guid:f8fd1ecc-6616-4f01-bc96-cb6268898194
+#desc:A framework so anyone can creat overlays for gw2
+#type:desktop
+runtime:1.3.1-beta
+app:1.3.1-beta
+codec:1.3.1-beta
+database:1.3.1-beta
+filesystem:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
+platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+worker:1.3.1-beta
